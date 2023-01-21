@@ -1,7 +1,7 @@
 // Calcule a área de um círculo
 
 function calculaArea(raio) {
-  // escreva seu código aqui
+  return Math.PI * raio * raio;
 }
 
 module.exports = calculaArea;
